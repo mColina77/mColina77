@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> Hola, soy <a href="https://github.com/mColina77">Mauricio [el Xeneize]</a> 👋 </h1>
+<h1 align="center"> Hola, soy <a href="https://github.com/mColina77">Mauricio [mcdev024]</a> 👋 </h1>
 </div>
 <img src="encabezado_GitHub_001.png" alt="encabezado GitHub">
 
