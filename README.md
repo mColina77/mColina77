@@ -48,7 +48,23 @@
   <a href="https://github.com/mColina77/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mColina77&layout=compact&theme=buefy&hide_border=true" /></a> 
 </div>
 
+<hr>
 
+> [!NOTE]
+> **Bienvenido**
+> Gracias por visitar mi repositorio. Espero que encuentres útil lo que hay aquí y espero contar con tu colaboración.
+
+> [!IMPORTANT]
+> Este proyecto está bajo licencia MIT, que es una Licencia de software libre permisiva lo que significa que impone muy pocas limitaciones en la reutilización.
+
+> [!TIP]
+> Para mantener un ambiente colaborativo y respetuoso, por favor sigue nuestras normas de contribución.
+
+> [!WARNING]
+> Si encuentras algún problema o tienes alguna pregunta, no dudes en abrir un issue (asunto). Estoy aquí para ayudarte. Ten en cuenta que el código en este repositorio puede estar sujeto a cambios y actualizaciones periódicas. Te recomendamos que estés atento a las actualizaciones del repositorio y que revises regularmente la documentación para mantener tu integración al día y evitar posibles problemas de compatibilidad con versiones anteriores.
+
+> [!CAUTION]
+> Antes de utilizar el código de este repositorio en tu propio proyecto, te recomendamos encarecidamente que lo pruebes en un entorno de desarrollo local para asegurarte de que funcione correctamente con tu configuración y requisitos específicos.
 
 <!---
 mColina77/mColina77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
